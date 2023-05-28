@@ -1,10 +1,10 @@
 # Question 1: 
 Which practice strengthens the physical security of your work environment?
 
-*Ensure that your software is up-to-date and that the latest patches are applied.
-*Recycle all paper, CDs, DVDs, hard drives etc. into their appropriate bins.
-*Pile all confidential documents neatly to one corner of your desk.
-# Shred and destroy all documents that contain sensitive personal or organizational information rather than tossing them into the waste bin.
+* Ensure that your software is up-to-date and that the latest patches are applied.
+* Recycle all paper, CDs, DVDs, hard drives etc. into their appropriate bins.
+* Pile all confidential documents neatly to one corner of your desk.
+* Shred and destroy all documents that contain sensitive personal or organizational information rather than tossing them into the waste bin.
 
 # Question 2: Why are insider threats one of the most challenging attack vectors?
 
